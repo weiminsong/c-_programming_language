@@ -1,0 +1,12 @@
+First Edition:
+1. C++ is for serious programmer;
+2. The key concept in C++ is class;
+
+Second Edition:
+1. C++ is evoling to meed the needs of its users;
+
+Third Edition:
+1. Only a good understanding of the ideas behind the language facilities leads to the mastery;
+
+Fourth Edition:
+1. c++ 11 is coming
