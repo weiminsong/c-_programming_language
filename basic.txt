@@ -1,0 +1,13 @@
+2.2.1 
+
+int main(){} if non-zero valur is returned to the OS, error will be there for some OS, I just tested that
+no error for MAC
+
+2.2.3
+
+A constant cannot be left uninitialized
+
+2.2.5
+
+relationship between pointer and array:
+char* p=&v[3] means p points to the fouth elements
